@@ -9,13 +9,13 @@
 
 **Summary:** How did you deploy it? Did you use GCP, AWS, Azure, Vagrant, VirtualBox, etc.?
 
-<img src="mhn-admin.gif">
+<img src="Honeypot.gif">
 
 ### Dionaea Honeypot Deployment (Required)
 
 **Summary:** Briefly in your own words, what does dionaea do?
 
-<img src="dionaea-honeypot.gif">
+<img src="Honeypot.gif">
 
 ### Database Backup (Required) 
 
@@ -29,7 +29,7 @@
 
 **Summary:** What does this honeypot simulate and do for a security researcher?
 
-<img src="x-honeypot.gif">
+<img src="Honeypot.gif">
 
 ### Malware Capture and Identification (Optional)
 
