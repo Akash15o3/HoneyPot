@@ -41,7 +41,7 @@ MD5 Hash: *Run `md5sum` on the file and record the hash here.*
 
 SHA1 Hash: *Run `sha1sum` on the file and record the hash here.*
 
-<img src="x-malware.gif">
+<img src="Capture.gif">
 
 ## Notes
 
